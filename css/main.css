@@ -74,8 +74,10 @@ h1, p{
     .img_text{
         display: flex;
         align-items: center;
+        margin: 0 2em;
     }
     .icono{
         font-size: xxx-large;
     }
+
  }
